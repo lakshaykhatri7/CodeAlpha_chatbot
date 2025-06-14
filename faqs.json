@@ -1,0 +1,19 @@
+[
+  {
+    "question": "What is Artificial Intelligence?",
+    "answer": "Artificial Intelligence is the simulation of human intelligence in machines."
+  },
+  {
+    "question": "What is machine learning?",
+    "answer": "Machine learning is a subset of AI that allows machines to learn from data."
+  },
+  {
+    "question": "Who is the founder of Python?",
+    "answer": "Python was created by Guido van Rossum."
+  },
+  {
+    "question": "What is CodeAlpha?",
+    "answer": "CodeAlpha is a software company offering internships and tech learning opportunities."
+  }
+]
+
